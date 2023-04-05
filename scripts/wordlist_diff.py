@@ -1,6 +1,8 @@
 # Load two wordlists and output the words in the second list that are not contained in,
 # or have a different score from, the first list.
 #
+# To use, enter the file paths where marked below, and run the script.
+#
 # Larry Snyder
 # 4/4/23
 
